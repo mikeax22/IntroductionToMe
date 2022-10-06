@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mikeax22
+- 👀 I’m interested in using programming to make synthetic organic chemistry more efficient. 
+- 🌱 I’m currently learning how to code and program.
+- 📫 How to reach me: mikeax22@gmail.com
